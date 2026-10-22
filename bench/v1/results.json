@@ -1,0 +1,409 @@
+{
+  "model_id": "amazon.nova-lite-v1:0",
+  "summary": {
+    "decider_2b": {
+      "n": 24,
+      "p50_ms": 1443.3,
+      "p95_ms": 13972.4,
+      "mean_ms": 3907.5,
+      "agree_with_gold": 0.5
+    },
+    "bedrock": {
+      "n": 24,
+      "p50_ms": 589.1,
+      "p95_ms": 903.7,
+      "mean_ms": 671.2,
+      "agree_with_gold": 0.708
+    }
+  },
+  "rows": {
+    "decider_2b": [
+      {
+        "resident": "r001",
+        "notice": "n001",
+        "gold": "action_required",
+        "choice": "action_required",
+        "confidence": 0.7365,
+        "ms": 17658.914416999323
+      },
+      {
+        "resident": "r002",
+        "notice": "n001",
+        "gold": "not_relevant",
+        "choice": "not_relevant",
+        "confidence": 0.4658,
+        "ms": 13972.371166000812
+      },
+      {
+        "resident": "r003",
+        "notice": "n001",
+        "gold": "action_required",
+        "choice": "action_required",
+        "confidence": 0.7758,
+        "ms": 11148.280583001906
+      },
+      {
+        "resident": "r004",
+        "notice": "n001",
+        "gold": "not_relevant",
+        "choice": "not_relevant",
+        "confidence": 0.4916,
+        "ms": 6707.705665998219
+      },
+      {
+        "resident": "r005",
+        "notice": "n001",
+        "gold": "action_required",
+        "choice": "action_required",
+        "confidence": 0.758,
+        "ms": 6667.909209001664
+      },
+      {
+        "resident": "r006",
+        "notice": "n001",
+        "gold": "action_required",
+        "choice": "action_required",
+        "confidence": 0.8311,
+        "ms": 3022.1531669994874
+      },
+      {
+        "resident": "r001",
+        "notice": "n002",
+        "gold": "information_only",
+        "choice": "information_only",
+        "confidence": 0.7588,
+        "ms": 12125.228458000493
+      },
+      {
+        "resident": "r002",
+        "notice": "n002",
+        "gold": "not_relevant",
+        "choice": "information_only",
+        "confidence": 0.7806,
+        "ms": 5119.243875000393
+      },
+      {
+        "resident": "r003",
+        "notice": "n002",
+        "gold": "information_only",
+        "choice": "information_only",
+        "confidence": 0.7323,
+        "ms": 778.2389579988376
+      },
+      {
+        "resident": "r004",
+        "notice": "n002",
+        "gold": "not_relevant",
+        "choice": "information_only",
+        "confidence": 0.5501,
+        "ms": 738.1337500009977
+      },
+      {
+        "resident": "r005",
+        "notice": "n002",
+        "gold": "not_relevant",
+        "choice": "information_only",
+        "confidence": 0.6141,
+        "ms": 708.9399169999524
+      },
+      {
+        "resident": "r006",
+        "notice": "n002",
+        "gold": "not_relevant",
+        "choice": "information_only",
+        "confidence": 0.72,
+        "ms": 849.4390000014391
+      },
+      {
+        "resident": "r001",
+        "notice": "n003",
+        "gold": "not_relevant",
+        "choice": "action_required",
+        "confidence": 0.4276,
+        "ms": 1189.0852079995966
+      },
+      {
+        "resident": "r002",
+        "notice": "n003",
+        "gold": "action_required",
+        "choice": "action_required",
+        "confidence": 0.8568,
+        "ms": 831.0822079984064
+      },
+      {
+        "resident": "r003",
+        "notice": "n003",
+        "gold": "not_relevant",
+        "choice": "action_required",
+        "confidence": 0.4674,
+        "ms": 692.094250000082
+      },
+      {
+        "resident": "r004",
+        "notice": "n003",
+        "gold": "not_relevant",
+        "choice": "action_required",
+        "confidence": 0.636,
+        "ms": 1450.1186669986055
+      },
+      {
+        "resident": "r005",
+        "notice": "n003",
+        "gold": "action_required",
+        "choice": "action_required",
+        "confidence": 0.6667,
+        "ms": 1660.8653330004017
+      },
+      {
+        "resident": "r006",
+        "notice": "n003",
+        "gold": "not_relevant",
+        "choice": "action_required",
+        "confidence": 0.8486,
+        "ms": 669.9273330013966
+      },
+      {
+        "resident": "r001",
+        "notice": "n004",
+        "gold": "information_only",
+        "choice": "not_relevant",
+        "confidence": 0.2724,
+        "ms": 687.7230419995612
+      },
+      {
+        "resident": "r002",
+        "notice": "n004",
+        "gold": "information_only",
+        "choice": "information_only",
+        "confidence": 0.5265,
+        "ms": 1605.0001250005153
+      },
+      {
+        "resident": "r003",
+        "notice": "n004",
+        "gold": "information_only",
+        "choice": "not_relevant",
+        "confidence": 0.3149,
+        "ms": 1436.3975410014973
+      },
+      {
+        "resident": "r004",
+        "notice": "n004",
+        "gold": "information_only",
+        "choice": "not_relevant",
+        "confidence": 0.2863,
+        "ms": 1276.6039169982832
+      },
+      {
+        "resident": "r005",
+        "notice": "n004",
+        "gold": "information_only",
+        "choice": "not_relevant",
+        "confidence": 0.241,
+        "ms": 1513.750166999671
+      },
+      {
+        "resident": "r006",
+        "notice": "n004",
+        "gold": "information_only",
+        "choice": "information_only",
+        "confidence": 0.5913,
+        "ms": 1270.3785419980704
+      }
+    ],
+    "bedrock": [
+      {
+        "resident": "r001",
+        "notice": "n001",
+        "gold": "action_required",
+        "choice": "action_required",
+        "confidence": null,
+        "ms": 2069.302708001487
+      },
+      {
+        "resident": "r002",
+        "notice": "n001",
+        "gold": "not_relevant",
+        "choice": "information_only",
+        "confidence": null,
+        "ms": 587.6764579988958
+      },
+      {
+        "resident": "r003",
+        "notice": "n001",
+        "gold": "action_required",
+        "choice": "action_required",
+        "confidence": null,
+        "ms": 903.6930829970515
+      },
+      {
+        "resident": "r004",
+        "notice": "n001",
+        "gold": "not_relevant",
+        "choice": "information_only",
+        "confidence": null,
+        "ms": 638.2877500000177
+      },
+      {
+        "resident": "r005",
+        "notice": "n001",
+        "gold": "action_required",
+        "choice": "action_required",
+        "confidence": null,
+        "ms": 716.2673749990063
+      },
+      {
+        "resident": "r006",
+        "notice": "n001",
+        "gold": "action_required",
+        "choice": "action_required",
+        "confidence": null,
+        "ms": 590.5212910001865
+      },
+      {
+        "resident": "r001",
+        "notice": "n002",
+        "gold": "information_only",
+        "choice": "information_only",
+        "confidence": null,
+        "ms": 807.7784169981896
+      },
+      {
+        "resident": "r002",
+        "notice": "n002",
+        "gold": "not_relevant",
+        "choice": "information_only",
+        "confidence": null,
+        "ms": 550.8049580021179
+      },
+      {
+        "resident": "r003",
+        "notice": "n002",
+        "gold": "information_only",
+        "choice": "information_only",
+        "confidence": null,
+        "ms": 553.3568329992704
+      },
+      {
+        "resident": "r004",
+        "notice": "n002",
+        "gold": "not_relevant",
+        "choice": "information_only",
+        "confidence": null,
+        "ms": 595.7195409973792
+      },
+      {
+        "resident": "r005",
+        "notice": "n002",
+        "gold": "not_relevant",
+        "choice": "information_only",
+        "confidence": null,
+        "ms": 538.1174169997394
+      },
+      {
+        "resident": "r006",
+        "notice": "n002",
+        "gold": "not_relevant",
+        "choice": "information_only",
+        "confidence": null,
+        "ms": 615.3197499988892
+      },
+      {
+        "resident": "r001",
+        "notice": "n003",
+        "gold": "not_relevant",
+        "choice": "not_relevant",
+        "confidence": null,
+        "ms": 544.058125000447
+      },
+      {
+        "resident": "r002",
+        "notice": "n003",
+        "gold": "action_required",
+        "choice": "action_required",
+        "confidence": null,
+        "ms": 543.9562079991447
+      },
+      {
+        "resident": "r003",
+        "notice": "n003",
+        "gold": "not_relevant",
+        "choice": "not_relevant",
+        "confidence": null,
+        "ms": 545.1382909996028
+      },
+      {
+        "resident": "r004",
+        "notice": "n003",
+        "gold": "not_relevant",
+        "choice": "not_relevant",
+        "confidence": null,
+        "ms": 526.9644580002932
+      },
+      {
+        "resident": "r005",
+        "notice": "n003",
+        "gold": "action_required",
+        "choice": "action_required",
+        "confidence": null,
+        "ms": 554.5508750001318
+      },
+      {
+        "resident": "r006",
+        "notice": "n003",
+        "gold": "not_relevant",
+        "choice": "action_required",
+        "confidence": null,
+        "ms": 578.1136660007178
+      },
+      {
+        "resident": "r001",
+        "notice": "n004",
+        "gold": "information_only",
+        "choice": "information_only",
+        "confidence": null,
+        "ms": 591.0692080033186
+      },
+      {
+        "resident": "r002",
+        "notice": "n004",
+        "gold": "information_only",
+        "choice": "information_only",
+        "confidence": null,
+        "ms": 576.6694590020052
+      },
+      {
+        "resident": "r003",
+        "notice": "n004",
+        "gold": "information_only",
+        "choice": "information_only",
+        "confidence": null,
+        "ms": 633.0097080026462
+      },
+      {
+        "resident": "r004",
+        "notice": "n004",
+        "gold": "information_only",
+        "choice": "information_only",
+        "confidence": null,
+        "ms": 594.7106669991626
+      },
+      {
+        "resident": "r005",
+        "notice": "n004",
+        "gold": "information_only",
+        "choice": "information_only",
+        "confidence": null,
+        "ms": 686.83845799751
+      },
+      {
+        "resident": "r006",
+        "notice": "n004",
+        "gold": "information_only",
+        "choice": "information_only",
+        "confidence": null,
+        "ms": 567.1565840020776
+      }
+    ]
+  }
+}

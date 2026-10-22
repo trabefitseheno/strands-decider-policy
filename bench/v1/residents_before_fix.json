@@ -1,0 +1,14 @@
+[
+  {"id": "r001", "name": "Amara Okello", "groups": ["caregiver_of_child"],
+   "profile": "Invented resident. Owns a home on Larch Street. Reads English as a second language; prefers short, simple messages. Has a 3-year-old."},
+  {"id": "r002", "name": "Tomas Bellweather", "groups": ["older_adult_household"],
+   "profile": "Invented resident. Renter on Birch Avenue. Retired engineer, age 71; wants every detail and the exact wording of rules."},
+  {"id": "r003", "name": "Priya Lindqvist", "groups": ["pregnant_or_postpartum"],
+   "profile": "Invented resident. Owns a home on Larch Street. University-educated; ordinary reading level. Expecting a baby."},
+  {"id": "r004", "name": "Jonas Marsh", "groups": [],
+   "profile": "Invented resident. Renter on Cedar Court. Works nights; ordinary reading level. No children."},
+  {"id": "r005", "name": "Wen Castellano", "groups": ["caregiver_of_child", "older_adult_household"],
+   "profile": "Invented resident. Owns a home on Birch Avenue, lives with a parent aged 78 and a 2-year-old. Prefers brief messages."},
+  {"id": "r006", "name": "Ingrid Foss", "groups": [],
+   "profile": "Invented resident. Owns a small business on Main Street. Ordinary reading level; wants the key dates up front."}
+]

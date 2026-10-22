@@ -1,0 +1,194 @@
+[
+  {
+    "recipient": "r001",
+    "doc": "n001",
+    "status": "rewrite_rejected",
+    "reason": "action_required",
+    "body": "Notice from the Town of Fernhollow (invented). The second installment of 2026 property tax, $1,284.50 per average household, is due by November 15, 2026. Payments received after November 15, 2026 incur a 1.5% monthly penalty. Pay at Town Hall, 12 Elm Road, Monday to Friday, 9 a.m. to 4 p.m., or online. Homeowners only; renters do not pay this tax.",
+    "attachment": null
+  },
+  {
+    "recipient": "r002",
+    "doc": "n001",
+    "status": "sent_original",
+    "reason": "relevance_below_threshold",
+    "body": "Notice from the Town of Fernhollow (invented). The second installment of 2026 property tax, $1,284.50 per average household, is due by November 15, 2026. Payments received after November 15, 2026 incur a 1.5% monthly penalty. Pay at Town Hall, 12 Elm Road, Monday to Friday, 9 a.m. to 4 p.m., or online. Homeowners only; renters do not pay this tax.",
+    "attachment": null
+  },
+  {
+    "recipient": "r003",
+    "doc": "n001",
+    "status": "sent_rewrite",
+    "reason": "action_required",
+    "body": "Attention Priya Lindqvist, this is a reminder from the Town of Fernhollow. The second part of your 2026 property tax is $1,284.50 for the average household. It is due by November 15, 2026. If you pay after this date, you will be charged a 1.5% monthly penalty. You can pay at Town Hall, located at 12 Elm Road, from Monday to Friday, 9 a.m. to 4 p.m., or you can pay online. Please note, this tax is for homeowners only; renters do not need to pay.",
+    "attachment": "Notice from the Town of Fernhollow (invented). The second installment of 2026 property tax, $1,284.50 per average household, is due by November 15, 2026. Payments received after November 15, 2026 incur a 1.5% monthly penalty. Pay at Town Hall, 12 Elm Road, Monday to Friday, 9 a.m. to 4 p.m., or online. Homeowners only; renters do not pay this tax."
+  },
+  {
+    "recipient": "r004",
+    "doc": "n001",
+    "status": "sent_original",
+    "reason": "relevance_below_threshold",
+    "body": "Notice from the Town of Fernhollow (invented). The second installment of 2026 property tax, $1,284.50 per average household, is due by November 15, 2026. Payments received after November 15, 2026 incur a 1.5% monthly penalty. Pay at Town Hall, 12 Elm Road, Monday to Friday, 9 a.m. to 4 p.m., or online. Homeowners only; renters do not pay this tax.",
+    "attachment": null
+  },
+  {
+    "recipient": "r005",
+    "doc": "n001",
+    "status": "rewrite_rejected",
+    "reason": "action_required",
+    "body": "Notice from the Town of Fernhollow (invented). The second installment of 2026 property tax, $1,284.50 per average household, is due by November 15, 2026. Payments received after November 15, 2026 incur a 1.5% monthly penalty. Pay at Town Hall, 12 Elm Road, Monday to Friday, 9 a.m. to 4 p.m., or online. Homeowners only; renters do not pay this tax.",
+    "attachment": null
+  },
+  {
+    "recipient": "r006",
+    "doc": "n001",
+    "status": "rewrite_rejected",
+    "reason": "action_required",
+    "body": "Notice from the Town of Fernhollow (invented). The second installment of 2026 property tax, $1,284.50 per average household, is due by November 15, 2026. Payments received after November 15, 2026 incur a 1.5% monthly penalty. Pay at Town Hall, 12 Elm Road, Monday to Friday, 9 a.m. to 4 p.m., or online. Homeowners only; renters do not pay this tax.",
+    "attachment": null
+  },
+  {
+    "recipient": "r001",
+    "doc": "n002",
+    "status": "sent_original",
+    "reason": "relevance_below_threshold",
+    "body": "Larch Street between 3rd and 7th Avenue will be resurfaced from October 26, 2026 to October 30, 2026. Expect delays between 7 a.m. and 5 p.m. No action is needed from residents; vehicles parked on the street between 7 a.m. and 5 p.m. may be towed.",
+    "attachment": null
+  },
+  {
+    "recipient": "r002",
+    "doc": "n002",
+    "status": "sent_original",
+    "reason": "relevance_below_threshold",
+    "body": "Larch Street between 3rd and 7th Avenue will be resurfaced from October 26, 2026 to October 30, 2026. Expect delays between 7 a.m. and 5 p.m. No action is needed from residents; vehicles parked on the street between 7 a.m. and 5 p.m. may be towed.",
+    "attachment": null
+  },
+  {
+    "recipient": "r003",
+    "doc": "n002",
+    "status": "sent_original",
+    "reason": "relevance_below_threshold",
+    "body": "Larch Street between 3rd and 7th Avenue will be resurfaced from October 26, 2026 to October 30, 2026. Expect delays between 7 a.m. and 5 p.m. No action is needed from residents; vehicles parked on the street between 7 a.m. and 5 p.m. may be towed.",
+    "attachment": null
+  },
+  {
+    "recipient": "r004",
+    "doc": "n002",
+    "status": "sent_original",
+    "reason": "relevance_below_threshold",
+    "body": "Larch Street between 3rd and 7th Avenue will be resurfaced from October 26, 2026 to October 30, 2026. Expect delays between 7 a.m. and 5 p.m. No action is needed from residents; vehicles parked on the street between 7 a.m. and 5 p.m. may be towed.",
+    "attachment": null
+  },
+  {
+    "recipient": "r005",
+    "doc": "n002",
+    "status": "sent_original",
+    "reason": "relevance_below_threshold",
+    "body": "Larch Street between 3rd and 7th Avenue will be resurfaced from October 26, 2026 to October 30, 2026. Expect delays between 7 a.m. and 5 p.m. No action is needed from residents; vehicles parked on the street between 7 a.m. and 5 p.m. may be towed.",
+    "attachment": null
+  },
+  {
+    "recipient": "r006",
+    "doc": "n002",
+    "status": "sent_original",
+    "reason": "relevance_below_threshold",
+    "body": "Larch Street between 3rd and 7th Avenue will be resurfaced from October 26, 2026 to October 30, 2026. Expect delays between 7 a.m. and 5 p.m. No action is needed from residents; vehicles parked on the street between 7 a.m. and 5 p.m. may be towed.",
+    "attachment": null
+  },
+  {
+    "recipient": "r001",
+    "doc": "n003",
+    "status": "sent_original",
+    "reason": "relevance_below_threshold",
+    "body": "Residents aged 65 or older with household income under $42,000 may apply for the winter heating credit of $350. Applications must be received by December 1, 2026 at the Senior Center, 4 Willow Lane. Late applications are not accepted.",
+    "attachment": null
+  },
+  {
+    "recipient": "r002",
+    "doc": "n003",
+    "status": "sent_original",
+    "reason": "relevance_below_threshold",
+    "body": "Residents aged 65 or older with household income under $42,000 may apply for the winter heating credit of $350. Applications must be received by December 1, 2026 at the Senior Center, 4 Willow Lane. Late applications are not accepted.",
+    "attachment": null
+  },
+  {
+    "recipient": "r003",
+    "doc": "n003",
+    "status": "sent_original",
+    "reason": "relevance_below_threshold",
+    "body": "Residents aged 65 or older with household income under $42,000 may apply for the winter heating credit of $350. Applications must be received by December 1, 2026 at the Senior Center, 4 Willow Lane. Late applications are not accepted.",
+    "attachment": null
+  },
+  {
+    "recipient": "r004",
+    "doc": "n003",
+    "status": "sent_original",
+    "reason": "relevance_below_threshold",
+    "body": "Residents aged 65 or older with household income under $42,000 may apply for the winter heating credit of $350. Applications must be received by December 1, 2026 at the Senior Center, 4 Willow Lane. Late applications are not accepted.",
+    "attachment": null
+  },
+  {
+    "recipient": "r005",
+    "doc": "n003",
+    "status": "sent_original",
+    "reason": "relevance_below_threshold",
+    "body": "Residents aged 65 or older with household income under $42,000 may apply for the winter heating credit of $350. Applications must be received by December 1, 2026 at the Senior Center, 4 Willow Lane. Late applications are not accepted.",
+    "attachment": null
+  },
+  {
+    "recipient": "r006",
+    "doc": "n003",
+    "status": "sent_original",
+    "reason": "relevance_below_threshold",
+    "body": "Residents aged 65 or older with household income under $42,000 may apply for the winter heating credit of $350. Applications must be received by December 1, 2026 at the Senior Center, 4 Willow Lane. Late applications are not accepted.",
+    "attachment": null
+  },
+  {
+    "recipient": "r001",
+    "doc": "n004",
+    "status": "sent_original",
+    "reason": "relevance_below_threshold",
+    "body": "The Fernhollow Town Council meets on the first Tuesday of each month at 7 p.m. in the Council Chamber, 12 Elm Road. Agendas are posted 3 days before each meeting. Attendance is optional.",
+    "attachment": null
+  },
+  {
+    "recipient": "r002",
+    "doc": "n004",
+    "status": "sent_original",
+    "reason": "relevance_below_threshold",
+    "body": "The Fernhollow Town Council meets on the first Tuesday of each month at 7 p.m. in the Council Chamber, 12 Elm Road. Agendas are posted 3 days before each meeting. Attendance is optional.",
+    "attachment": null
+  },
+  {
+    "recipient": "r003",
+    "doc": "n004",
+    "status": "sent_original",
+    "reason": "relevance_below_threshold",
+    "body": "The Fernhollow Town Council meets on the first Tuesday of each month at 7 p.m. in the Council Chamber, 12 Elm Road. Agendas are posted 3 days before each meeting. Attendance is optional.",
+    "attachment": null
+  },
+  {
+    "recipient": "r004",
+    "doc": "n004",
+    "status": "sent_original",
+    "reason": "relevance_below_threshold",
+    "body": "The Fernhollow Town Council meets on the first Tuesday of each month at 7 p.m. in the Council Chamber, 12 Elm Road. Agendas are posted 3 days before each meeting. Attendance is optional.",
+    "attachment": null
+  },
+  {
+    "recipient": "r005",
+    "doc": "n004",
+    "status": "sent_original",
+    "reason": "relevance_below_threshold",
+    "body": "The Fernhollow Town Council meets on the first Tuesday of each month at 7 p.m. in the Council Chamber, 12 Elm Road. Agendas are posted 3 days before each meeting. Attendance is optional.",
+    "attachment": null
+  },
+  {
+    "recipient": "r006",
+    "doc": "n004",
+    "status": "sent_original",
+    "reason": "relevance_below_threshold",
+    "body": "The Fernhollow Town Council meets on the first Tuesday of each month at 7 p.m. in the Council Chamber, 12 Elm Road. Agendas are posted 3 days before each meeting. Attendance is optional.",
+    "attachment": null
+  }
+]

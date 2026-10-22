@@ -1,0 +1,6 @@
+Strands Decider policy routers
+Copyright 2026 Tsirofy Rabefitseheno
+
+Built on Strands Agents and Strands Decider (both Apache-2.0). The HTTP client in
+patterns/notice_relevance/client.py is written against the wire format documented in the
+strands-decider repository (schema.py, examples/strands/_client.py).

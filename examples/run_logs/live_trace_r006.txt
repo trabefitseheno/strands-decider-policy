@@ -1,0 +1,14 @@
+# Live run, Oct 22 2026. Command:
+# AWS_PROFILE=<profile> AWS_REGION=us-east-1 BEDROCK_MODEL_ID=amazon.nova-lite-v1:0 MAX_BEDROCK_CALLS=4 python -m demo.trace_delivery --live r006
+# Real local Decider 2B + real Bedrock (Nova Lite). 2 Converse calls. One delivery only.
+
+=== live Bedrock rewrite | r006: Age 52. Homeowner on Main Street, lives above her small business. Hous... ===
+1. Decider (local):
+     relevance      action_required  confidence 0.86 / threshold 0.80  accepted
+     reading_level  standard         confidence 0.22 / threshold 0.70  FALLBACK -> plain
+2. Bedrock (LIVE) calls made: 2
+3. Check step:
+     passed: no figure added, dropped or changed
+4. Result: sent_rewrite (action_required); original attached: True
+   message: Hi Ingrid, here's your notice in simpler words: The second part of your 2026 property tax, which is $1,284.50 for the average home, is due by November 15, 2026. If you pay after this date, you'll owe an extra 1.5% each month. You can pay at Town Hall, 12 Elm Road, from Monday to Friday, 9 a.m. to 4 p.m., or online. Only homeowners need to pay this tax; renters do not.  Exact wording from the original notice: - $1,284.50 - November 15, 2026 - 1.5% - 12 Elm Road - Homeowners only
+   pinned by code: - $1,284.50 | - November 15, 2026 | - 1.5% | - 12 Elm Road | - Homeowners only

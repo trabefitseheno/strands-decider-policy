@@ -1,0 +1,18 @@
+[
+  {"id": "n001", "title": "Property tax second installment due",
+   "body": "Notice from the Town of Fernhollow (invented). The second installment of 2026 property tax, $1,284.50 per average household, is due by November 15, 2026. Payments received after November 15, 2026 incur a 1.5% monthly penalty. Pay at Town Hall, 12 Elm Road, Monday to Friday, 9 a.m. to 4 p.m., or online. Homeowners only; renters do not pay this tax.",
+   "must_preserve": ["$1,284.50", "November 15, 2026", "1.5%", "12 Elm Road", "Homeowners only"],
+   "gold": {"r001": "action_required", "r002": "not_relevant", "r003": "action_required", "r004": "not_relevant", "r005": "action_required", "r006": "action_required"}},
+  {"id": "n002", "title": "Road resurfacing on Larch Street",
+   "body": "Larch Street between 3rd and 7th Avenue will be resurfaced from October 26, 2026 to October 30, 2026. Expect delays between 7 a.m. and 5 p.m. No action is needed from residents; vehicles parked on the street between 7 a.m. and 5 p.m. may be towed.",
+   "must_preserve": ["October 26, 2026", "October 30, 2026", "Larch Street", "3rd and 7th Avenue"],
+   "gold": {"r001": "information_only", "r002": "not_relevant", "r003": "information_only", "r004": "not_relevant", "r005": "not_relevant", "r006": "not_relevant"}},
+  {"id": "n003", "title": "Senior heating assistance applications",
+   "body": "Residents aged 65 or older with household income under $42,000 may apply for the winter heating credit of $350. Applications must be received by December 1, 2026 at the Senior Center, 4 Willow Lane. Late applications are not accepted.",
+   "must_preserve": ["aged 65 or older", "$42,000", "$350", "December 1, 2026", "4 Willow Lane", "Late applications are not accepted"],
+   "gold": {"r001": "not_relevant", "r002": "action_required", "r003": "not_relevant", "r004": "not_relevant", "r005": "action_required", "r006": "not_relevant"}},
+  {"id": "n004", "title": "Town council meeting schedule",
+   "body": "The Fernhollow Town Council meets on the first Tuesday of each month at 7 p.m. in the Council Chamber, 12 Elm Road. Agendas are posted 3 days before each meeting. Attendance is optional.",
+   "must_preserve": ["first Tuesday", "7 p.m.", "12 Elm Road", "3 days"],
+   "gold": {"r001": "information_only", "r002": "information_only", "r003": "information_only", "r004": "information_only", "r005": "information_only", "r006": "information_only"}}
+]

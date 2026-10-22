@@ -1,0 +1,32 @@
+[
+  {
+    "id": "r001",
+    "name": "Amara Okello",
+    "profile": "Invented resident. Age 34. Homeowner on Larch Street. Household income $61,000. Reads English as a second language; prefers short, simple messages. Has a 3-year-old."
+  },
+  {
+    "id": "r002",
+    "name": "Tomas Bellweather",
+    "profile": "Invented resident. Age 71. Renter on Birch Avenue. Household income $36,000. Retired engineer; wants every detail and the exact wording of rules."
+  },
+  {
+    "id": "r003",
+    "name": "Priya Lindqvist",
+    "profile": "Invented resident. Age 31. Homeowner on Larch Street. Household income $88,000. University-educated; ordinary reading level. Expecting a baby."
+  },
+  {
+    "id": "r004",
+    "name": "Jonas Marsh",
+    "profile": "Invented resident. Age 38. Renter on Cedar Court. Household income $52,000. Works nights; ordinary reading level. No children."
+  },
+  {
+    "id": "r005",
+    "name": "Wen Castellano",
+    "profile": "Invented resident. Age 41. Homeowner on Birch Avenue. Household includes a parent aged 78 and a 2-year-old; household income $38,000. Prefers brief messages."
+  },
+  {
+    "id": "r006",
+    "name": "Ingrid Foss",
+    "profile": "Invented resident. Age 52. Homeowner on Main Street, lives above her small business. Household income $74,000. Ordinary reading level; wants the key dates up front."
+  }
+]

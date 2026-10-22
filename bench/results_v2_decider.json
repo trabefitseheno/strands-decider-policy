@@ -1,0 +1,208 @@
+{
+  "model_id": "n/a (Decider-only run, no Bedrock call)",
+  "summary": {
+    "decider_2b": {
+      "n": 24,
+      "p50_ms": 25474.7,
+      "p95_ms": 45458.3,
+      "mean_ms": 27630.1,
+      "agree_with_gold": 0.792
+    }
+  },
+  "rows": {
+    "decider_2b": [
+      {
+        "resident": "r001",
+        "notice": "n001",
+        "gold": "action_required",
+        "choice": "action_required",
+        "confidence": 0.8392,
+        "ms": 23121.62741600332
+      },
+      {
+        "resident": "r002",
+        "notice": "n001",
+        "gold": "not_relevant",
+        "choice": "action_required",
+        "confidence": 0.2001,
+        "ms": 53255.00079199992
+      },
+      {
+        "resident": "r003",
+        "notice": "n001",
+        "gold": "action_required",
+        "choice": "action_required",
+        "confidence": 0.8604,
+        "ms": 44374.26729100116
+      },
+      {
+        "resident": "r004",
+        "notice": "n001",
+        "gold": "not_relevant",
+        "choice": "not_relevant",
+        "confidence": 0.2162,
+        "ms": 43965.88070899452
+      },
+      {
+        "resident": "r005",
+        "notice": "n001",
+        "gold": "action_required",
+        "choice": "action_required",
+        "confidence": 0.8437,
+        "ms": 45458.27583299979
+      },
+      {
+        "resident": "r006",
+        "notice": "n001",
+        "gold": "action_required",
+        "choice": "action_required",
+        "confidence": 0.858,
+        "ms": 45139.86629199644
+      },
+      {
+        "resident": "r001",
+        "notice": "n002",
+        "gold": "information_only",
+        "choice": "information_only",
+        "confidence": 0.7831,
+        "ms": 30632.21687499754
+      },
+      {
+        "resident": "r002",
+        "notice": "n002",
+        "gold": "not_relevant",
+        "choice": "information_only",
+        "confidence": 0.6462,
+        "ms": 8469.641832998605
+      },
+      {
+        "resident": "r003",
+        "notice": "n002",
+        "gold": "information_only",
+        "choice": "information_only",
+        "confidence": 0.783,
+        "ms": 7094.447625000612
+      },
+      {
+        "resident": "r004",
+        "notice": "n002",
+        "gold": "not_relevant",
+        "choice": "information_only",
+        "confidence": 0.6046,
+        "ms": 15237.00000000099
+      },
+      {
+        "resident": "r005",
+        "notice": "n002",
+        "gold": "not_relevant",
+        "choice": "information_only",
+        "confidence": 0.5989,
+        "ms": 16131.467290993896
+      },
+      {
+        "resident": "r006",
+        "notice": "n002",
+        "gold": "not_relevant",
+        "choice": "information_only",
+        "confidence": 0.6601,
+        "ms": 20567.187166998337
+      },
+      {
+        "resident": "r001",
+        "notice": "n003",
+        "gold": "not_relevant",
+        "choice": "not_relevant",
+        "confidence": 0.6299,
+        "ms": 14721.28208399954
+      },
+      {
+        "resident": "r002",
+        "notice": "n003",
+        "gold": "action_required",
+        "choice": "action_required",
+        "confidence": 0.7839,
+        "ms": 13019.138000003295
+      },
+      {
+        "resident": "r003",
+        "notice": "n003",
+        "gold": "not_relevant",
+        "choice": "not_relevant",
+        "confidence": 0.5927,
+        "ms": 30992.177209001966
+      },
+      {
+        "resident": "r004",
+        "notice": "n003",
+        "gold": "not_relevant",
+        "choice": "not_relevant",
+        "confidence": 0.5999,
+        "ms": 39318.52174999949
+      },
+      {
+        "resident": "r005",
+        "notice": "n003",
+        "gold": "action_required",
+        "choice": "action_required",
+        "confidence": 0.2911,
+        "ms": 36417.29587499867
+      },
+      {
+        "resident": "r006",
+        "notice": "n003",
+        "gold": "not_relevant",
+        "choice": "not_relevant",
+        "confidence": 0.4994,
+        "ms": 25030.066749997786
+      },
+      {
+        "resident": "r001",
+        "notice": "n004",
+        "gold": "information_only",
+        "choice": "information_only",
+        "confidence": 0.375,
+        "ms": 41355.07879099896
+      },
+      {
+        "resident": "r002",
+        "notice": "n004",
+        "gold": "information_only",
+        "choice": "information_only",
+        "confidence": 0.4607,
+        "ms": 38554.727791000914
+      },
+      {
+        "resident": "r003",
+        "notice": "n004",
+        "gold": "information_only",
+        "choice": "information_only",
+        "confidence": 0.3684,
+        "ms": 25919.281709000643
+      },
+      {
+        "resident": "r004",
+        "notice": "n004",
+        "gold": "information_only",
+        "choice": "information_only",
+        "confidence": 0.3764,
+        "ms": 11438.071750002564
+      },
+      {
+        "resident": "r005",
+        "notice": "n004",
+        "gold": "information_only",
+        "choice": "information_only",
+        "confidence": 0.3592,
+        "ms": 12066.31395900331
+      },
+      {
+        "resident": "r006",
+        "notice": "n004",
+        "gold": "information_only",
+        "choice": "information_only",
+        "confidence": 0.5615,
+        "ms": 20843.56087500055
+      }
+    ]
+  }
+}
